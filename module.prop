@@ -1,0 +1,6 @@
+id=Android-Wake-Lock
+name=Android Wake Lock
+version=20240901
+versionCode=1
+author=syj
+description=prevent the system from entering deep sleep
